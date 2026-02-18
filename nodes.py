@@ -2438,6 +2438,7 @@ async def init_builtin_extra_nodes():
         "nodes_color.py",
         "nodes_toolkit.py",
         "nodes_replacements.py",
+        "nodes_nag.py",
     ]
 
     import_failed = []
